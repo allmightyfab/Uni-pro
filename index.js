@@ -19,7 +19,7 @@ setTimeout(function(){
               } else {
                   alert("Wrong! Try again.");
               }
-          } while (goats !== 4);
+          } while (goats !== 14);
       }
   }
   
