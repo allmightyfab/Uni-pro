@@ -14,7 +14,6 @@ setTimeout(function(){
                   alert("Nice, you saw 4 goats!");
                   document.getElementById("Theone").style.display = "block";
                   document.getElementById("myImage").style.visibility="hidden";
-                  document.write(goats);
   
   
               } else {
